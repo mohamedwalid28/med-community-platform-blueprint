@@ -1,0 +1,1 @@
+To ensure a launch within 30 days, we will use Circle.so for the community feed/chat. However, we will build a Custom Django Middleware to handle the proprietary video library. This prevents 'Platform Lock-in' and allows us to implement custom AI search features that Circle lacks.

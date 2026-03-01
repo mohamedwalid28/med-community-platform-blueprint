@@ -1,0 +1,1 @@
+Managing 80+ medical videos requires more than just a list. We will use OpenAI Whisper to auto-generate transcripts. These transcripts will be stored in a Vector Database, allowing patients to ask questions like 'What did the doctor say about Vitamin D?' and get the exact video timestamp.
